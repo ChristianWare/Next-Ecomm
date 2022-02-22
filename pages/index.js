@@ -20,6 +20,8 @@ export default function Home() {
             </div>
             <div className={styles.productCol}>
               {product.name} {product.price}
+              yea man
+              
             </div>
           </div>
         </div>
